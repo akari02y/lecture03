@@ -55,7 +55,7 @@ public class Main {
             System.out.println(userMap.get("yamamoto"));
             for (String name : names)
                 if (name.equals("suzuki")) System.out.println(userMap.get(name));
-
+// 例外処理は後ほど追加
         }
     }
 }
